@@ -3,7 +3,7 @@ import { NavLink } from "react-router";
 export default function Navbar() {
   let pages = [
     { to: "/", name: "Home" },
-    { to: "/about", name: "About" },
+    // { to: "/about", name: "About" },
     { to: "/products", name: "Products" },
     { to: "/cart", name: "cart" },
   ];
